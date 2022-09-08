@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @chateshreyas231
+- 👋 Hi, I’m Shreyas Chate
 - 👀 I’m interested in Web Deisgning | Machine Learning models 
-- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on React | Django | Python | ML projects | Web designing | Full stack applications
 - 📫 How to reach me chateshreyas231@gmail.com --- mention github reference to get replies fast..
 
